@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGL_assimp", "OpenGL_assimp\OpenGL_assimp.vcxproj", "{DD69F54C-A1D5-409B-9D25-501E5524009F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD69F54C-A1D5-409B-9D25-501E5524009F}.Debug|x64.ActiveCfg = Debug|x64
+		{DD69F54C-A1D5-409B-9D25-501E5524009F}.Debug|x64.Build.0 = Debug|x64
+		{DD69F54C-A1D5-409B-9D25-501E5524009F}.Debug|x86.ActiveCfg = Debug|Win32
+		{DD69F54C-A1D5-409B-9D25-501E5524009F}.Debug|x86.Build.0 = Debug|Win32
+		{DD69F54C-A1D5-409B-9D25-501E5524009F}.Release|x64.ActiveCfg = Release|x64
+		{DD69F54C-A1D5-409B-9D25-501E5524009F}.Release|x64.Build.0 = Release|x64
+		{DD69F54C-A1D5-409B-9D25-501E5524009F}.Release|x86.ActiveCfg = Release|Win32
+		{DD69F54C-A1D5-409B-9D25-501E5524009F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {172D1C04-C03B-4643-9959-492E1905D5FF}
+	EndGlobalSection
+EndGlobal
